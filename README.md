@@ -28,6 +28,15 @@ Total Cost = SUM(Sales[Cost])
 Profit = [Total Sales]-[Total Cost]
 Profit % = DIVIDE([Profit],[Total Sales],0)
 Total Boxes = SUM(Sales[Boxes])
+
+Answers
+
+Total Sales	$34M
+Total Cost	$14M
+Total Profit	$21M
+Profit Margin	60%
+Total Boxes	2M
+Total Shipments	6K
 ```
 
 ## 🛠 Tools
@@ -37,5 +46,11 @@ Power BI • DAX • Power Query • Excel/CSV
 - Total Sales: $34M
 - Profit: $21M
 - Profit Margin: 60%
+  📧 Contact
+
+Contact
+Deepan Rajadurai
+📩 Email: rdeepan10112002@gmail.com
+GitHub: https://github.com/Deepanrajadurai
 - Regional comparison via donut chart
 - Top products identified by sales and profit
