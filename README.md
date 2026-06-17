@@ -46,11 +46,10 @@ Power BI • DAX • Power Query • Excel/CSV
 - Total Sales: $34M
 - Profit: $21M
 - Profit Margin: 60%
-  📧 Contact
+- Regional comparison via donut chart
+- Top products identified by sales and profit
 
 Contact
 Deepan Rajadurai
 📩 Email: rdeepan10112002@gmail.com
 GitHub: https://github.com/Deepanrajadurai
-- Regional comparison via donut chart
-- Top products identified by sales and profit
