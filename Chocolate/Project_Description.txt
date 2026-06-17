@@ -1,0 +1,7 @@
+Chocolate Sales Dashboard
+
+Purpose: Interactive Power BI dashboard for analyzing sales, profit,
+cost, shipments and product performance.
+
+Topics: powerbi, dax, business-intelligence, dashboard,
+data-analytics, power-query
